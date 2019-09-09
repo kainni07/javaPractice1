@@ -1,4 +1,4 @@
- class JavaPractice1 {
+ public class JavaPractice1 {
      
      public static void main(String args[]) {
         int n = 10;
